@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: code code\__DEFINES 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: code\world.dm;code\__DEFINES\_globals.dm
+FILE: code\__DEFINES\_globals.dm
+*/
+// END_INTERNALS
